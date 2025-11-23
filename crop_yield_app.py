@@ -11,7 +11,7 @@ import base64
 
 # ---------- USER CONFIG ----------
 # Update this path to your model file location
-MODEL_PATH = "final_best_model.joblib"
+MODEL_PATH = "best_model_LinearRegression_v2.joblib"
 BACKGROUND_PATH_OR_URL = "https://wallpaperaccess.com/full/736046.jpg"
 # ---------------------------------
 
