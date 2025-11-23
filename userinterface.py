@@ -38,7 +38,7 @@ import numpy as np
 import joblib, os, base64
 
 # ---------- USER CONFIG ----------
-MODEL_PATH = "/content/drive/MyDrive/Crop_Prediction_Project/best_model_LinearRegression.joblib"
+MODEL_PATH = "best_model_LinearRegression.joblib"
 BACKGROUND_PATH_OR_URL = "https://wallpaperaccess.com/full/736046.jpg"
 # ---------------------------------
 
